@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Kaining Ying (应凯宁). Now I am a Ph.D. student at Fudan University, supervised by Prof. [Henghui Ding](henghuiding.com). 
+My name is Kaining Ying (应凯宁). Now I am a Ph.D. student at Fudan University, supervised by Prof. [Henghui Ding](https://henghuiding.com). 
 
 Here are my selected first-authored papers; for the full list, please refer to [Google Scholar](https://scholar.google.com/citations?user=MDvaeqUAAAAJ&hl=en).
 - **ICCV'25** | MOVE: Motion-Guided Few-Shot Video Object Segmentation
