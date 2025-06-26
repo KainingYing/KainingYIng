@@ -5,7 +5,7 @@ My name is Kaining Ying (应凯宁). Now I am a Ph.D. student at Fudan Universit
 Here are my selected first-authored papers; for the full list, please refer to [Google Scholar](https://scholar.google.com/citations?user=MDvaeqUAAAAJ&hl=en).
 1. **ICCV'25** | MOVE: Motion-Guided Few-Shot Video Object Segmentation
 2. **ICCV'25** | OmniAVS: Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation
-3. **ICML'24** | MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI
+3. **ICML'24** | MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models
 4. **ICCV'23** | CTVIS: Consistent Training for Online Video Instance Segmentation
 
 <!--
