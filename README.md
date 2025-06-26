@@ -7,6 +7,11 @@ Here are my selected first-authored papers; for the full list, please refer to [
 2. **ICCV'25** | [OmniAVS: Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation]()
 3. **ICML'24** | [MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models]()
 4. **ICCV'23** | [CTVIS: Consistent Training for Online Video Instance Segmentation]()
+5. Coming soon!
+6. Coming soon!
+7. Coming soon!
+8. Coming soon!
+9. Coming soon!
 
 <!--
 **KainingYing/KainingYIng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
