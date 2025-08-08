@@ -3,7 +3,7 @@
 My name is [Kaining Ying](https://github.com/KainingYing/KainingYIng/blob/main/cv.pdf) (应凯宁). Now I am a Ph.D. student at Fudan University, supervised by Prof. [Henghui Ding](https://henghuiding.com). 
 
 Here are my selected first-authored papers; for the full list, please refer to [Google Scholar](https://scholar.google.com/citations?user=MDvaeqUAAAAJ&hl=en).
-1. **arXiv**     | [MOSEv2: A More Challenging Dataset for Video Object Segmentation in Complex Scenes]()
+1. **arXiv'25**  | [MOSEv2: A More Challenging Dataset for Video Object Segmentation in Complex Scenes]()
 2. **ICCV'25**   | [MOVE: Motion-Guided Few-Shot Video Object Segmentation]()
 3. **ICCV'25**   | [OmniAVS: Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation]()
 4. **ICML'24**   | [MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models]()
