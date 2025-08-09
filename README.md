@@ -10,6 +10,7 @@ Here are my selected first-authored papers; for the full list, please refer to [
 5. **ICCV'23**   | [CTVIS: Consistent Training for Online Video Instance Segmentation]()
 6. **ICASSP'22** | [ISDA: Position-Aware Instance Segmentation with Deformable Attention]()
 
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=KainingYing)
 <!--
 **KainingYing/KainingYIng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
